@@ -72,6 +72,14 @@ const MySkills = () => {
                     <p className="mt-5">
                         I like to code things from scratch, and enjoy bringing ideas to life in the browser.
                     </p>
+                    <div className='mt-3'>
+                        <p className="badge badge-lg badge-outline text-white text-lg mt-2">HTML</p>
+                        <p className="badge badge-lg badge-outline text-white text-lg mt-2 ml-2">CSS</p>
+                        <p className="badge badge-lg badge-outline text-white text-lg mt-2 ml-2">JS</p>
+                        <p className="badge badge-lg badge-outline text-white text-lg mt-2 ml-2">Bootstrap</p>
+                        <p className="badge badge-lg badge-outline text-white text-lg mt-2 ml-2">Tailwind</p>
+                        <p className="badge badge-lg badge-outline text-white text-lg mt-2 ml-2">Daisy UI</p>
+                    </div>
                 </motion.div>
 
                 {/* INNOVATIVE */}
@@ -98,6 +106,13 @@ const MySkills = () => {
                     <p className="mt-5">
                         I can Develop a fullstack fully functional website from backend to client end.No doubt!
                     </p>
+                    <div className='mt-3'>
+                        <p className="badge badge-lg badge-outline text-white text-lg mt-2">NODE JS</p>
+                        <p className="badge badge-lg badge-outline text-white text-lg mt-2 ml-2">MONGODB</p>
+                        <p className="badge badge-lg badge-outline text-white text-lg mt-2 ml-2">EXPRESS</p>
+                        <p className="badge badge-lg badge-outline text-white text-lg mt-2 ml-2">Firebase</p>
+                        <p className="badge badge-lg badge-outline text-white text-lg mt-2 ml-2">Vercel</p>
+                    </div>
                 </motion.div>
                 {/* IMAGINATIVE */}
                 <motion.div
@@ -123,6 +138,14 @@ const MySkills = () => {
                     <p className="mt-5">
                         I value simple content structure, clean design patterns, and thoughtful interactions.
                     </p>
+                    <div className='mt-3'>
+                        <p className="badge badge-lg badge-outline text-white text-lg mt-2">NODE JS</p>
+                        <p className="badge badge-lg badge-outline text-white text-lg mt-2 ml-2">UX</p>
+                        <p className="badge badge-lg badge-outline text-white text-lg mt-2 ml-2">UI</p>
+                        <p className="badge badge-lg badge-outline text-white text-lg mt-2 ml-2">Mobile</p>
+                        <p className="badge badge-lg badge-outline text-white text-lg mt-2 ml-2">WEB</p>
+                        <p className="badge badge-lg badge-outline text-white text-lg mt-2 ml-2">Figma</p>
+                    </div>
                 </motion.div>
             </div>
 
