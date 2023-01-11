@@ -2572,6 +2572,10 @@ html {
   margin-top: 0.75rem;
 }
 
+.mt-2 {
+  margin-top: 0.5rem;
+}
+
 .ml-2 {
   margin-left: 0.5rem;
 }
@@ -2594,10 +2598,6 @@ html {
 
 .mb-12 {
   margin-bottom: 3rem;
-}
-
-.mt-2 {
-  margin-top: 0.5rem;
 }
 
 .inline-block {
